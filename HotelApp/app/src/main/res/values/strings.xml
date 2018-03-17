@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string-array name="food">
+            <item>Chineese</item>
+            <item>Mexican</item>
+            <item>Italian</item>
+            <item>Indian</item>
+    </string-array>
+</resources>
